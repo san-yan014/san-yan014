@@ -1,49 +1,48 @@
-## Hi there! 👋 I'm San Yan but I prefer to be called Will!  ## 
+# Hi there! 👋 I'm San Yan (Will Chen)! 
 
-🔭 Current Focus
+## 🔭 Current Focus
+- Working on: Healthcare analytics projects, AI-powered insurance underwriting models and claims analysis
+- Learning: Medical data standards, biostatistics, and healthcare domain knowledge   
+- Exploring: Exploring the intersection of data science and healthcare
 
-Working on: Sleep Stage Classification with Wearable Devices
-Learning: XGBoost model, Machine Learning, Data Engineering, Pytorch, Tensorflow   
-Exploring: 
+## 🛠️ Technologies & Skills
 
-🛠️ Technologies & Skills
-Programming Languages
-Python 
-SQL 
-R 
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
-Frameworks & Libraries
-Numpy 
-Pandas
-Tensorflow 
-Scikit 
-Pytorch
-Tools & Platforms
-Git
-Docker
-AWS
+### Frameworks & Libraries
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-📊 GitHub Stats
-🌟 Featured Projects
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-🚀 Project Name - Brief description of what it does
-💡 Project Name - Brief description of what it does
-🎯 Project Name - Brief description of what it does
+## 📊 GitHub Stats
 
-📫 Let's Connect!
+## 🌟 Featured Projects
+- 🚀 **[SLeep Stage Classification with Wearable Devices](link-to-repo)** - classifying a person's sleep stage ((Wake, N1-N3, REM)) with CNN using data from smart watches 
+- 💡 **[AI-Powered Commercial Insurance Underwriting Assistant](link-to-repo)** - AI-poweredinsurance underwriting system that automates risk assessment and document processing that reduces underwriting time from weeks to minutes using various methods
 
+
+## 📫 Let's Connect!
 💼 LinkedIn: www.linkedin.com/in/san-yan
 📧 Email: williamchen014@gmail.com
 🌐 Portfolio: yourwebsite.com
 💬 Discord: glip014
 
-💭 Fun Facts
+## 💭 Fun Facts
+- ⚡ Fun fact: I can wiggle my ears👂. 
+- 🎮 When I'm not coding: Movies, Weightlifting, Cooking, Swimmming
+- 📚 Currently reading: How to Get From Where You are to Where You Want to Be
 
-⚡ Fun fact: I can wiggle my ears :). 
-🎮 When I'm not coding: Movies, Weightlifting, Cooking, Swimmming
-📚 Currently reading: How to Get From Where You are to Where You Want to Be
-
-
+---
 ⭐️ From san-yan014
 
 <!--
