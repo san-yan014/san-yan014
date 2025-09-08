@@ -25,11 +25,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats
-
-## 🌟 Featured Projects
-- 🚀 **[SLeep Stage Classification with Wearable Devices](https://github.com/san-yan014/Sleep-Stage-Classification-Using-Wearable-Devices)** - classifying a person's sleep stage ((Wake, N1-N3, REM)) with CNN using data from smart watches 
-- 💡 **[AI-Powered Commercial Insurance Underwriting Assistant](https://github.com/san-yan014/AI-Powered-Commercial-Insurance-Underwriting-Assistant)** - AI-powered insurance underwriting system that automates risk assessment and document processing that reduces underwriting time from weeks to minutes using various methods
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=san-yan014&show_icons=true&theme=github_dark)
 
 ## 📫 Let's Connect!
 💼 LinkedIn: www.linkedin.com/in/san-yan
