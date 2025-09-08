@@ -7,25 +7,22 @@ Learning: XGBoost model, Machine Learning, Data Engineering, Pytorch, Tensorflow
 Exploring: 
 
 🛠️ Technologies & Skills
-
-<!-- 
 Programming Languages
 Python 
 SQL 
-R -->
+R 
+
 Frameworks & Libraries
-<!-- Numpy 
+Numpy 
 Pandas
 Tensorflow 
 Scikit 
-Pytorch-->
+Pytorch
 Tools & Platforms
-
-<!-- 
 Git
 Docker
 AWS
--->
+
 📊 GitHub Stats
 🌟 Featured Projects
 
