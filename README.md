@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm San Yan (Will Chen)! 
+# San (Will) Yan
+Data scientist | Healthcare analytics
 
-## 🔭 Current Focus
-- Working on: Healthcare analytics projects, AI-powered insurance underwriting models and claims analysis
-- Learning: Medical data standards, biostatistics, and healthcare domain knowledge   
-- Exploring: Exploring the intersection of data science and healthcare
+## Focus
+- Healthcare analytics, including AI-powered insurance underwriting models and claims analysis
+- Medical data standards and biostatistics
 
-## 🛠️ Technologies & Skills
+## Technologies & Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,34 +24,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=san-yan014&show_icons=true&theme=github_dark)
+## Contact
+- LinkedIn: [www.linkedin.com/in/san-yan](https://www.linkedin.com/in/san-yan)
+- Email: williamchen014@gmail.com
+- Discord: glip014
 
-## 📫 Let's Connect!
-💼 LinkedIn: www.linkedin.com/in/san-yan
-📧 Email: williamchen014@gmail.com
-🌐 Portfolio: ❗Work in Progress❗
-💬 Discord: glip014
-
-## 💭 Fun Facts
-- ⚡ Fun fact: I can wiggle my ears👂. 
-- 🎮 When I'm not coding: Movies, Weightlifting, Cooking, Swimmming
-- 📚 Currently reading: How to Get From Where You are to Where You Want to Be
-
----
-⭐️ From san-yan014
-
-<!--
-**san-yan014/san-yan014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+Weightlifting, swimming, cooking, film
