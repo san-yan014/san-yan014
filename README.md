@@ -1,9 +1,8 @@
 # San (Will) Yan
-Data scientist | Healthcare analytics
+Data Analyst | Data Scientist
 
-## Focus
-- Healthcare analytics, including AI-powered insurance underwriting models and claims analysis
-- Medical data standards and biostatistics
+## About
+Data professional with experience in statistical modeling, machine learning, and SQL-based analysis
 
 ## Technologies & Skills
 
@@ -23,6 +22,8 @@ Data scientist | Healthcare analytics
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
 ## Contact
 - LinkedIn: [www.linkedin.com/in/san-yan](https://www.linkedin.com/in/san-yan)
@@ -30,4 +31,4 @@ Data scientist | Healthcare analytics
 - Discord: glip014
 
 ## Interests
-Weightlifting, swimming, cooking, film
+Weightlifting, swimming, running, cooking, watching movies, video games
